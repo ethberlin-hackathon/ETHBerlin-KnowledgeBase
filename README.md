@@ -15,7 +15,7 @@ ETHBerlin is a combination of a hackathon, workshops and talks, happening from 7
 It's proudly a part of the ETHGlobal community. For more, please refer to the [website](https://ethberlin.com).
 
 ### Actors
-[Hackers*]() | [Volunteers]() | [Speakers]() | [Mentors & Judges]() | [Sponsers]() | [General Audience]() | [Organization Team]()
+[Hackers*]() | [Volunteers]() | [Speakers]() | [Mentors](https://medium.com/ethberlin/so-you-think-you-can-mentor-280648923a0f) | [Sponsers]() | [General Audience]() | [Organization Team]()
 
 *Hacker*: Someone who takes part in the hackathon by joining a team and working on a project, and the term
 doesn't exclusively refer to people with software development backgrounds.
@@ -26,7 +26,7 @@ doesn't exclusively refer to people with software development backgrounds.
 ## Preparation & Planning
 *For everyone*
 
-So you've been admitted to ETHBerlin, congratulations. Here are the next steps:
+We're really excited that you're joining us. Here are the next steps:
 
 ### Getting to Berlin
 [Here](https://www.berlin.de/en/airports-and-stations/) you can find information about the airports and stations in Berlin.
@@ -36,9 +36,26 @@ the events itself. However, there is a very limited subsidy on a first-come firs
 everyone to allow those who benefit most make use of these subsidies. To apply please write [us](joinus@ethberlin.com).
 
 ### Accomodation
+There are a variety of options available in Berlin for the purpose of accomodation. From hostels to
+airbnb flats and hotels. We recommend the regions Treptow, Kreuzberg or Friedrichshain due to their 
+close proximity to the venue.
+As part of our commitment to using dapps extensively throughout the hackathon, we're in close contact
+with the team behind [Winding Tree](https://windingtree.com/), and most probably they will launch to
+mainnet within the next few days, in which case, you can reserve a place with ETH or LIF, their native token.
 
 ### Venues
+The event will be held at Factory Berlin, which has two venues. The main venue for hackers is
+Factory Görlitzer Park (Lohmühlenstraße 65). Registeration starts at 15:30. General audience will
+not be admitted to this venue, as we want to allow the teams to be able to concentrate on their projects.
+
+On the first day we will kick things off at Factory Mitte (Rheinsberger Straße 76/77) at 12:00,
+and there will be a series of talks and panels throughout the day and until 21:00, in parallel to the hackathon
+happening at the other venue. 
+
+Please note that on the next two days, ETHBerlin will continue only at Factory Görlitzer Park, and Factory Mitte is
+*only* for the first day.
 
 ## The Event
 
 ### Schedule
+You may find the schedule of the event [here](https://ethberlin.com/schedule/).
