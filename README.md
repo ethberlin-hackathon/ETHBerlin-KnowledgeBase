@@ -14,16 +14,19 @@ We assume, if you're reading this document, that you know what ETHBerlin is, but
 ETHBerlin is a combination of a hackathon, workshops and talks, happening from 7th till 9th of September 2018 in Berlin, Germany.
 It's proudly a part of the ETHGlobal community. For more, please refer to the [website](https://ethberlin.com).
 
-### Actors
-[Hackers*](hackers.md) | [Volunteers]() | [Speakers]() | [Mentors](https://medium.com/ethberlin/so-you-think-you-can-mentor-280648923a0f) | [Sponsers]() | [General Audience]() | [Organization Team]()
+### Phases
+[Application Period](https://ethberlin.com) | [Preparation & Planning](#preparation-and-planning) | [The Event](#the-event)
+
+### Roles
+When you've read the general information for all of the phases above, you may find information
+specific to your role here:
+
+[Hackers*](hackers.md) | [Volunteers]() | [Speakers]() | [Mentors](https://medium.com/ethberlin/so-you-think-you-can-mentor-280648923a0f) | [Sponsers](https://ethberlin.com/sponsor/) | [General Audience]() | [Organization Team]()
 
 *Hacker*: Someone who takes part in the hackathon by joining a team and working on a project, and the term
 doesn't exclusively refer to people with software development backgrounds.
 
-### Phases
-[Application Period](https://ethberlin.com) | [Preparation & Planning]() | [The Event]()
-
-## Preparation & Planning
+## Preparation and Planning
 *For everyone*
 
 We're really excited that you're joining us. Here are the next steps:
