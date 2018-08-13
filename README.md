@@ -15,7 +15,7 @@ ETHBerlin is a combination of a hackathon, workshops and talks, happening from 7
 It's proudly a part of the ETHGlobal community. For more, please refer to the [website](https://ethberlin.com).
 
 ### Actors
-[Hackers*]() | [Volunteers]() | [Speakers]() | [Mentors](https://medium.com/ethberlin/so-you-think-you-can-mentor-280648923a0f) | [Sponsers]() | [General Audience]() | [Organization Team]()
+[Hackers*](hackers.md) | [Volunteers]() | [Speakers]() | [Mentors](https://medium.com/ethberlin/so-you-think-you-can-mentor-280648923a0f) | [Sponsers]() | [General Audience]() | [Organization Team]()
 
 *Hacker*: Someone who takes part in the hackathon by joining a team and working on a project, and the term
 doesn't exclusively refer to people with software development backgrounds.
@@ -59,3 +59,10 @@ Please note that on the next two days, ETHBerlin will continue only at Factory G
 
 ### Schedule
 You may find the schedule of the event [here](https://ethberlin.com/schedule/).
+
+### Food & Stuff
+We've got your back, no worries.
+
+### Sleeping
+Due to the regulations of the venue, unfortunately we cannot offer any sleeping facilities on-site, and
+sleeping bags are not allowed. Please make sure you take this into consideration when choosing an accomodation.
