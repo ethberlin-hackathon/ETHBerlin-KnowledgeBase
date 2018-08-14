@@ -21,7 +21,7 @@ It's proudly a part of the ETHGlobal community. For more, please refer to the [w
 When you've read the general information for all of the phases above, you may find information
 specific to your role here:
 
-[Hackers*](hackers.md) | [Volunteers]() | [Speakers]() | [Mentors](https://medium.com/ethberlin/so-you-think-you-can-mentor-280648923a0f) | [Sponsers](sponsors.md) | [Community Members]() | [Organization Team]()
+[Hackers*](hackers.md) | [Volunteers]() | [Speakers]() | [Mentors](https://medium.com/ethberlin/so-you-think-you-can-mentor-280648923a0f) | [Sponsors](sponsors.md) | [Community Members]() | [Organization Team]()
 
 *Hacker*: Someone who takes part in the hackathon by joining a team and working on a project, and the term
 doesn't exclusively refer to people with software development backgrounds.
@@ -33,7 +33,7 @@ ETHBerlin will try to use tools created within the ecosystem as much as possible
 This paves the way for adoption of web3, which we're all trying to buidl, and acts as a good
 testing ground for the dapps, consequently helping the respective teams to learn from this experience
 and make the softwares even better.
-For more on this, check the [article](https://medium.com/ethberlin/if-you-liked-it-then-you-shoulda-put-a-dapp-on-it-626b032d32a5).
+For more on this, check out the [article](https://medium.com/ethberlin/if-you-liked-it-then-you-shoulda-put-a-dapp-on-it-626b032d32a5).
 
 ### Communcation Channel
 One of the dapps, mentioned above, that we love and use a lot, is [Status](status.im/). Make sure you install it
