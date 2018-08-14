@@ -11,3 +11,4 @@ you're free to choose one of the venues for the first day, until 21:00. Afterwar
 present at the main venue, and the team formation and hackathon kick-off will happen nearly at midnight.
 
 ## Resources
+- [OST KIT⍺](https://dev.ost.com/docs/simpletoken.html) - Provides you with tools to design, plan, mint, and manage your token economy with ease.
