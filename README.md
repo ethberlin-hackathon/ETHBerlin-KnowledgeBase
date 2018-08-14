@@ -15,13 +15,13 @@ ETHBerlin is a combination of a hackathon, workshops and talks, happening from 7
 It's proudly a part of the ETHGlobal community. For more, please refer to the [website](https://ethberlin.com).
 
 ### Phases
-[Application Period](https://ethberlin.com) | [Preparation & Planning](#preparation-and-planning) | [The Event](#the-event)
+[Preparation & Planning](#preparation-and-planning) | [The Event](#the-event)
 
 ### Roles
 When you've read the general information for all of the phases above, you may find information
 specific to your role here:
 
-[Hackers*](hackers.md) | [Volunteers]() | [Speakers]() | [Mentors](https://medium.com/ethberlin/so-you-think-you-can-mentor-280648923a0f) | [Sponsers](https://ethberlin.com/sponsor/) | [General Audience]() | [Organization Team]()
+[Hackers*](hackers.md) | [Volunteers]() | [Speakers]() | [Mentors](https://medium.com/ethberlin/so-you-think-you-can-mentor-280648923a0f) | [Sponsers](sponsors.md) | [Community Members]() | [Organization Team]()
 
 *Hacker*: Someone who takes part in the hackathon by joining a team and working on a project, and the term
 doesn't exclusively refer to people with software development backgrounds.
@@ -48,7 +48,7 @@ mainnet within the next few days, in which case, you can reserve a place with ET
 
 ### Venues
 The event will be held at Factory Berlin, which has two venues. The main venue for hackers is
-Factory Görlitzer Park (Lohmühlenstraße 65). Registeration starts at 15:30. General audience will
+Factory Görlitzer Park (Lohmühlenstraße 65). Registeration starts at 15:30. Community members will
 not be admitted to this venue, as we want to allow the teams to be able to concentrate on their projects.
 
 On the first day we will kick things off at Factory Mitte (Rheinsberger Straße 76/77) at 12:00,
