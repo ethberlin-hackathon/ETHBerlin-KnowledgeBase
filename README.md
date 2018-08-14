@@ -37,7 +37,7 @@ For more on this, check out the [article](https://medium.com/ethberlin/if-you-li
 
 ### Communcation Channel
 One of the dapps, mentioned above, that we love and use a lot, is [Status](status.im/). Make sure you install it
-and come say hi in the [#ETHBerlin](https://get.status.im/chat/public/ETHBerlin) channel. Feel free to ask for
+and come say hi in the [#ethberlin](https://get.status.im/chat/public/ethberlin) channel. Feel free to ask for
 couches there, or discuss sharing flat with other participants. We also have channels for getting to know eachother
 and building teams!
 
