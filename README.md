@@ -1,6 +1,23 @@
 # ETHBerlin Knowledge Base
 This is your one-stop source of information, if you're participating in ETHBerlin.
 
+## Table of Contents
+- [Usage](#usage)
+- [Overview](#overview)
+  - [What is ETHBerlin](#what-is-ethberlin)
+  - [Phases](#phases)
+  - [Roles](#roles)
+  - [Commitment to Using Dapps](#commitment-to-using-dapps)
+  - [Communication Channel](#communication-channel)
+- [Preparation and Planning](#preparation-and-planning)
+  - [Getting to Berlin](#getting-to-berlin)
+  - [Accomodation](#accomodation)
+  - [Venues](#venues)
+- [The Event](#the-event)
+  - [Schedule](#schedule)
+  - [Food & Stuff](#food-and-stuff)
+  - [Sleeping Facilities](#sleeping-facilities)
+
 ## Usage
 We've tried to split the knowledge base into different parts, so that you may find
 information relevant to your role, and the stage of the event, easily. Please start
@@ -35,7 +52,7 @@ testing ground for the dapps, consequently helping the respective teams to learn
 and make the softwares even better.
 For more on this, check out the [article](https://medium.com/ethberlin/if-you-liked-it-then-you-shoulda-put-a-dapp-on-it-626b032d32a5).
 
-### Communcation Channel
+### Communication Channel
 One of the dapps, mentioned above, that we love and use a lot, is [Status](status.im/). Make sure you install it
 and come say hi in the [#ethberlin](https://get.status.im/chat/public/ethberlin) channel. Feel free to ask for
 couches there, or discuss sharing flat with other participants. We also have channels for getting to know eachother
@@ -78,9 +95,9 @@ Please note that on the next two days, ETHBerlin will continue only at Factory G
 ### Schedule
 You may find the schedule of the event [here](https://ethberlin.com/schedule/).
 
-### Food & Stuff
+### Food and Stuff
 We've got your back, no worries.
 
-### Sleeping
+### Sleeping Facilities
 Due to the regulations of the venue, unfortunately we cannot offer any sleeping facilities on-site, and
 sleeping bags are not allowed. Please make sure you take this into consideration when choosing an accomodation.
