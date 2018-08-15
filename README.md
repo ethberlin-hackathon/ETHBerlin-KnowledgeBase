@@ -21,7 +21,7 @@ It's proudly a part of the ETHGlobal community. For more, please refer to the [w
 When you've read the general information for all of the phases above, you may find information
 specific to your role here:
 
-[Hackers*](hackers.md) | [Volunteers]() | [Speakers]() | [Mentors](https://medium.com/ethberlin/so-you-think-you-can-mentor-280648923a0f) | [Sponsors](sponsors.md) | [Community Members]() | [Organization Team]()
+[Hackers*](hackers.md) | [Volunteers](volunteers.md) | [Speakers]() | [Mentors](https://medium.com/ethberlin/so-you-think-you-can-mentor-280648923a0f) | [Sponsors](sponsors.md) | [Community Members]() | [Organization Team]()
 
 *Hacker*: Someone who takes part in the hackathon by joining a team and working on a project, and the term
 doesn't exclusively refer to people with software development backgrounds.
