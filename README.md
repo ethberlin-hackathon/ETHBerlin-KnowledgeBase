@@ -1,6 +1,8 @@
 # ETHBerlin Knowledge Base
 This is your one-stop source of information, if you're participating in ETHBerlin.
 
+![ETHBerlin logo](https://github.com/ethberlin-hackathon/media-assets/raw/master/ETHBerlin%20logo%20-%20horizontal%20transparent%20-%20small.png)
+
 ## Table of Contents
 - [Usage](#usage)
 - [Overview](#overview)
