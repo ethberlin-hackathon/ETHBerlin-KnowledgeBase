@@ -40,7 +40,7 @@ It's proudly a part of the ETHGlobal community. For more, please refer to the [w
 When you've read the general information for all of the phases above, you may find information
 specific to your role here:
 
-[Hackers*](hackers.md) | [Volunteers](volunteers.md) | [Speakers]() | [Mentors](mentors.md) | [Sponsors](sponsors.md) | [Community Members]() | [Organization Team]()
+[Hackers*](hackers.md) | [Volunteers](volunteers.md) | [Speakers]() | [Mentors](mentors.md) | [Judges](judges.md) | [Sponsors](sponsors.md) | [Community Members]() | [Organization Team]()
 
 *Hacker*: Someone who takes part in the hackathon by joining a team and working on a project, and the term
 doesn't exclusively refer to people with software development backgrounds.
