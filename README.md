@@ -41,7 +41,7 @@ It's proudly a part of the ETHGlobal community. For more, please refer to the [w
 When you've read the general information for all of the phases above, you may find information
 specific to your role here:
 
-[Hackers*](hackers.md) | [Volunteers](volunteers.md) | [Speakers]() | [Mentors](mentors.md) | [Judges](judges.md) | [Sponsors](sponsors.md) | [Community Members]() | [Organization Team]()
+[Hackers*](hackers.md) | [Volunteers](volunteers.md) | [Speakers]() | [Mentors](mentors.md) | [Judges](judges.md) | [Sponsors](sponsors.md) | [Community Members](community-members.md) | [Organization Team]()
 --- | --- | --- | --- | --- | --- | --- | ---
 
 *Hacker*: Someone who takes part in the hackathon by joining a team and working on a project, and the term
@@ -84,12 +84,10 @@ mainnet within the next few days, in which case, you can reserve a place with ET
 
 ### Venues
 The event will be held at Factory Berlin, which has two venues. The main venue for hackers is
-Factory Görlitzer Park (Lohmühlenstraße 65). Registeration starts at 15:30. Community members will
+Factory Görlitzer Park (Lohmühlenstraße 65). Registeration starts at 14:30 (on Friday, the 7th of September). Community members will
 not be admitted to this venue, as we want to allow the teams to be able to concentrate on their projects.
 
-On the first day we will kick things off at Factory Mitte (Rheinsberger Straße 76/77) at 12:00,
-and there will be a series of talks and panels throughout the day and until 21:00, in parallel to the hackathon
-happening at the other venue. 
+In addition to the main venue, there will also be a series of talks and workshops at Factory Mitte (Rheinsberger Straße 76/77) starting at 12:00 and continuing until 21:00 on Friday, the 7th of September. Hackathons participants are free to choose between the two venues for the first day. Community members who want to take part in this mini-conference should refer to [this](community-members.md) page for information on how to acquire tickets.
 
 Please note that on the next two days, ETHBerlin will continue only at Factory Görlitzer Park, and Factory Mitte is
 *only* for the first day.
