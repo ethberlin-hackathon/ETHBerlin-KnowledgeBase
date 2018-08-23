@@ -24,9 +24,8 @@ You received a welcome e-mail with the link to our mentorship orga [Riot](https:
 
 We have a general community chat already! Find us on [Status](http://status.im/) in the #ethberlin channel.
 
-## Mentorship Leads
-These are your mentorship leads:
-TODO Add pics
+## Mentorship On-Site Leads
+We will be there over the weekend to support the mentors on-site if you have questions:
 * Philip 
 * Caspar
 * Elias 
