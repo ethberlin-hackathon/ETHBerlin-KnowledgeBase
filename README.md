@@ -98,7 +98,8 @@ Community tickets for Day 1 conferences will be launched via Peepeth on a Blockp
 ## The Event
 
 ### Schedule
-You may find the schedule of the event [here](https://ethberlin.com/schedule/).
+- [**Full Schedule**](https://ethberlin.com/schedule/) includes first-day conference tracks, workshops during the hackathon, etc.
+- [**Hackathon Schedule**](https://ethberlin.com/hackathon-schedule) includes key hackathon events (registeration, etc.) and mealtimes.
 
 ### Food and Stuff
 ETHBerlin will cover all meals & drinks for the entire Hackathon, and conference coffee breaks. you won’t need money here, only BERLINcoin to experiment with, an open mind, a knowledge-thirsty brain & sharp-as-knives building skills. 
