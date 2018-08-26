@@ -6,9 +6,19 @@ First things first: In order to participate you need to be admitted to the ETHBe
 present. It's not possible therefore to join in remotely. If you have your consciousness uploaded to the brain of a robot,
 please write us and we might make an exception ;)
 
-The hackathon registeration is at 15:30 of the 7th. at the Factory Görlitzer Park venue. Apart from that
-you're free to choose one of the venues for the first day, until 21:00. Afterwards, everyone should be
-present at the main venue, and the team formation and hackathon kick-off will happen nearly at midnight.
+## Registeration
+As you probably already know, on the 7th. there are two parallel events, from which you can choose only one (please no hopping, as each have limited capacity and they're both at max capacity). Check out the [schedule](http://ethberlin.com/schedule) to decide which one's for you. Depending on the venue you choose, here's how the hackathon registeration will happen:
+
+- **Factory Görlitzer Park** Be there at 14:30 to register for the hackathon.
+- **Factory Mitte** After the conference, at 21:00, everyone will come to **Factory Görlitzer Park**, and you can register then.
+
+The team formation and hackathon kick-off will happen at **Factory Görlitzer Park** nearly at midnight.
+
+
+## Team Building
+We have a [repository](https://github.com/ethberlin-hackathon/ETHBerlin-Teambuilding) dedicated to help hackers looking for teams, and teams looking for hackers. Consider it as a way to meet like-minded people and discuss building teams, however this does not replace the official team registeration, which happens on the first day of the hackathon.
+
+In addition to the repository, you can participate in the #ethberlin and #buidlyourberlinteam status channels, or the Riot [chat](https://matrix.to/#/!WTJBLneNDtLzLNlkmU:matrix.org) to discuss clever stuff and find your hackmate :)
 
 ## Resources
 - [OST KIT⍺](https://dev.ost.com/docs/simpletoken.html) - Provides you with tools to design, plan, mint, and manage your token economy with ease.
