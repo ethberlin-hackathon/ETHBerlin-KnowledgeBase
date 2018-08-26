@@ -83,14 +83,17 @@ with the team behind [Winding Tree](https://windingtree.com/), and most probably
 mainnet within the next few days, in which case, you can reserve a place with ETH or LIF, their native token.
 
 ### Venues
-The event will be held at Factory Berlin, which has two venues. The main venue for hackers is
-Factory Görlitzer Park (Lohmühlenstraße 65). Registeration starts at 14:30 (on Friday, the 7th of September). Community members will
-not be admitted to this venue, as we want to allow the teams to be able to concentrate on their projects.
+Day 1 (7. September) consists of a two-track conference in *two* venues:
 
-In addition to the main venue, there will also be a series of talks and workshops at Factory Mitte (Rheinsberger Straße 76/77) starting at 12:00 and continuing until 21:00 on Friday, the 7th of September. Hackathons participants are free to choose between the two venues for the first day. Community members who want to take part in this mini-conference should refer to [this](community-members.md) page for information on how to acquire tickets.
+- **Factory Mitte** (Rheinsberger Straße 76/77)
+- **Factory Görlitzer Park** (Lohmühlenstraße 65)
 
-Please note that on the next two days, ETHBerlin will continue only at Factory Görlitzer Park, and Factory Mitte is
-*only* for the first day.
+After the conferences are done, the hackathon people will get together at **Factory Görlitzer** – this will be the *only venue* after the conferences – at 22:00 when the opening ceremony (accompanied by dinner & drinks) and team formation will take place. The Hackathon kicks off at 00:00 on September 8th.
+
+### Tickets
+If you are a hacker, a mentor, a registered sponsor, a volunteer, a judge or a speaker you don’t need a ticket, just your e-mail confirmation and ID.
+
+Community tickets for Day 1 conferences will be launched via Peepeth on a Blockparty Smart Contract on September 1st. All tickets are free. Community tickets do *not* enable access to the Hackathon or Day 2 & 3 Workshops. Thank you in advance for respecting the hackers and their #BUIDL.
 
 ## The Event
 
@@ -98,7 +101,7 @@ Please note that on the next two days, ETHBerlin will continue only at Factory G
 You may find the schedule of the event [here](https://ethberlin.com/schedule/).
 
 ### Food and Stuff
-We've got your back, no worries.
+ETHBerlin will cover all meals & drinks for the entire Hackathon, and conference coffee breaks. you won’t need money here, only BERLINcoin to experiment with, an open mind, a knowledge-thirsty brain & sharp-as-knives building skills. 
 
 ### Sleeping Facilities
 Due to the regulations of the venue, unfortunately we cannot offer any sleeping facilities on-site, and
