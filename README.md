@@ -74,7 +74,7 @@ and we've decided to allocate the biggest fraction of the funds to the prize poo
 the events itself. However, there is a very limited subsidy on a first-come first-served basis. We encourage
 everyone to allow those who benefit most make use of these subsidies. To apply please write [us](joinus@ethberlin.com).
 
-### Accomodation
+### Accommodation
 There are a variety of options available in Berlin for the purpose of accomodation. From hostels to
 airbnb flats and hotels. We recommend the regions Treptow, Kreuzberg or Friedrichshain due to their 
 close proximity to the venue.
