@@ -6,7 +6,7 @@ First things first: In order to participate you need to be admitted to the ETHBe
 present. It's not possible therefore to join in remotely. If you have your consciousness uploaded to the brain of a robot,
 please write us and we might make an exception ;)
 
-## Registeration
+## Registration
 As you probably already know, on the 7th. there are two parallel events, from which you can choose only one (please no hopping, as each have limited capacity and they're both at max capacity). Check out the [schedule](http://ethberlin.com/schedule) to decide which one's for you. Depending on the venue you choose, here's how the hackathon registeration will happen:
 
 - **Factory Görlitzer Park** Be there at 14:30 to register for the hackathon.
