@@ -1,5 +1,5 @@
 # Build on Aragon
-You can find all the information and tutorials on how to build on Aragon in the [Aragon Developer Portal](https://hack.aragon.org) and the community and team are available for helping out at the [Aragon Chat](https://aragon.chat) in the [#dev-help](https://aragon.chat/channel/dev-help) channel.You can find all the information and tutorials on how to build on Aragon in the [Aragon Developer Portal](https://hack.aragon.org) and the community and team are available for helping out at the [Aragon Chat](https://aragon.chat) in the [#dev-help](https://aragon.chat/channel/dev-help) channel.
+You can find all the information and tutorials on how to build on Aragon in the [Aragon Developer Portal](https://hack.aragon.org) and the community and team are available for helping out at the [Aragon Chat](https://aragon.chat) in the [#dev-help](https://aragon.chat/channel/dev-help) channel.
 
 ## Resources
 - [Aragon Developer Portal](https://hack.aragon.org/)
