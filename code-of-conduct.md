@@ -24,7 +24,7 @@ If you believe you have found a bug or vulnerability, please submit a report to 
 ## Unacceptable Behavior
 Unacceptable behaviors include: intimidating, harassing, abusive, discriminatory, derogatory or demeaning speech or actions by any participant in our community online, at all related events and in one-on-one communications carried out in the context of community business. 
 
-Harassment includes: harmful or prejudicial verbal or written comments related to gender, sexual orientation, race, religion, disability; inappropriate use of nudity and/or sexual images (including presentation slides); inappropriate depictions of violence (including presentation slides); deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact, and unwelcome sexual attention.
+Harassment includes: harmful or prejudicial verbal or written comments related to gender, sexual orientation, race, religion, disability; inappropriate use of nudity and/or sexual images (including presentation slides); inappropriate depictions of violence (including presentation slides); deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact, and unwelcomed sexual attention.
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a volunteer or organizer as soon as possible. If you can't find anyone in person, reach out via [email](mailto:joinus@ethberlin.com).
 
