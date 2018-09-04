@@ -24,3 +24,5 @@ In addition to the repository, you can participate in the #ethberlin and #buidly
 - [OST KIT⍺](https://dev.ost.com/docs/simpletoken.html) - Provides you with tools to design, plan, mint, and manage your token economy with ease.
 
 - [colonyStarter kit](https://github.com/JoinColony/colonyStarter) - All you need to get started quickly building with the colony stack. The colonyStarter packs in truffle, ganache, TrufflePig, and colonyJS into a monorepo complete with code examples to get going quickly with any dApp project that wants to use Colony's smart contract infrastructure for task management and reputation. You can learn more about colonyJS and colonyNetwork from the [Colony open-source docs](https://docs.colony.io/).
+
+- [Buidling on Aragon](resources/aragon.md)
