@@ -1,10 +1,12 @@
 # Hackers
 Hackers of the world unite!
 
-## Overview
-First things first: In order to participate you need to be admitted to the ETHBerlin, and you need to be physically
-present. It's not possible therefore to join in remotely. If you have your consciousness uploaded to the brain of a robot,
-please write us and we might make an exception ;)
+## Table of Contents
+- [Registration](#registration)
+- [Team Building](#team-building)
+- [Guidelines](#guidelines)
+  - [Submission](#submission)
+- [Resources](#resources)
 
 ## Registration
 As you probably already know, on the 7th. there are two parallel events, from which you can choose only one (please no hopping, as each have limited capacity and they're both at max capacity). Check out the [schedule](http://ethberlin.com/schedule) to decide which one's for you. Depending on the venue you choose, here's how the hackathon registeration will happen:
@@ -14,11 +16,33 @@ As you probably already know, on the 7th. there are two parallel events, from wh
 
 The team formation and hackathon kick-off will happen at **Factory Görlitzer Park** nearly at midnight.
 
-
 ## Team Building
 We have a [repository](https://github.com/ethberlin-hackathon/ETHBerlin-Teambuilding) dedicated to help hackers looking for teams, and teams looking for hackers. Consider it as a way to meet like-minded people and discuss building teams, however this does not replace the official team registeration, which happens on the first day of the hackathon.
 
 In addition to the repository, you can participate in the #ethberlin and #buidlyourberlinteam status channels, or the Riot [chat](https://matrix.to/#/!WTJBLneNDtLzLNlkmU:matrix.org) to discuss clever stuff and find your hackmate :)
+
+## Guidelines
+In order to participate you need to be admitted to the ETHBerlin, and you need to be physically
+present.
+
+Hacking starts during the event. Teams can form and ideas can evolve before the hackathon. However, the code base, hacks, and prototypes that you create for any apps competing for prizes or bounties need to evolve only during the hackathon. Apps, hacks, and projects that were built before the event do **not** qualify and will be excluded from judging and any prizes.
+
+And please don't forget to sync your Ethereum nodes ahead of the event :)
+
+### Submission
+What you need to do in order to be considered for the prizes:
+
+- Your project needs to be submitted to **Devpost**, for the open track bounties judging, before Sunday at 12pm. 
+- If you want your project considered for particular bounties (eg. Aragon, Status, The Graph, etc), you need to post on their issue, administrated by Bounties Network. 
+- If you are bidding for the Community Improvement Prices, same applies.
+- For the People’s Choice Award: nothing required, just buidl. 
+
+What your submission should have: 
+
+- A link to the **open-source** code must be provided.
+- A short **presentation** file must describe your project. It has to be accessible without special tools. Ideally a PDF, Google slides, or even a hosted recording if you like. The judges need to all be able to access those presentations.
+- The **contract address(es)** of your deployed demo must be provided, either on a testnet of your choice (Kovan, Rinkeby or Ropsten) or on Ethereum mainnet; instructions on how to interact with the contract(s) are appreciated.
+- A URL to any publicly accessible web-interfaces and demo credentials if applicable.
 
 ## Resources
 - [OST KIT⍺](https://dev.ost.com/docs/simpletoken.html) - Provides you with tools to design, plan, mint, and manage your token economy with ease.
