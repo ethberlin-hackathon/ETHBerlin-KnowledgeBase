@@ -52,3 +52,5 @@ What your submission should have:
 - [Building on Aragon](resources/aragon.md) - Here you can find tutorials, reference documentations and getting started guides for building on Aragon, using AragonOS, Aragon.js, Aragon UI and Aragon CLI.
 
 - [DAOstack Hackers Kit](https://github.com/daostack/DAOstack-Hackers-Kit) - Complete "Hackers Kit" providing all the information and resources needed to start working with the DAOstack platform. For direct communication, you can [click here](https://discord.gg/WCYEvGA) to join to the DAOstack ETHBerlin Discord channel.
+
+- [Ready to use dApp template](https://gitlab.com/mikiquantum/simple-dapp-calculator) — a clone-and-start-hacking template of a dApp, with CI/CD battaries included. Built with Solidity and React, tested and migrated using Truffle. Brought to you by your [friendly EthBerlin devops mentors](https://gitlab.com/mikiquantum/simple-dapp-calculator/graphs/master)!
