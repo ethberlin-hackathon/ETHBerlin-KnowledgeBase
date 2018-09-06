@@ -54,3 +54,5 @@ What your submission should have:
 - [DAOstack Hackers Kit](https://github.com/daostack/DAOstack-Hackers-Kit) - Complete "Hackers Kit" providing all the information and resources needed to start working with the DAOstack platform. For direct communication, you can [click here](https://discord.gg/WCYEvGA) to join to the DAOstack ETHBerlin Discord channel.
 
 - [Ready to use dApp template](https://gitlab.com/mikiquantum/simple-dapp-calculator) — a clone-and-start-hacking template of a dApp, with CI/CD battaries included. Built with Solidity and React, tested and migrated using Truffle. Brought to you by your [friendly EthBerlin devops mentors](https://gitlab.com/mikiquantum/simple-dapp-calculator/graphs/master)!
+
+- [Parity light.js](https://parity-js.github.io/light.js/getting-started/installation.html) - A high-level reactive JS library optimized for light clients.
