@@ -35,7 +35,7 @@ What you need to do in order to be considered for the prizes:
 - Your project needs to be submitted to **Devpost**, for the open track bounties judging, before Sunday at 12pm. 
 - If you want your project considered for particular bounties (eg. Aragon, Status, The Graph, etc), you need to post on their issue, administrated by Bounties Network. 
 - If you are bidding for the Community Improvement Prices, same applies.
-- For the People’s Choice Award: nothing required, just buidl. 
+- For the People’s Choice Award: (aka community prize) 5 projects will be selected by the mentors, and on Sunday morning, the community will vote on their favorite project among the 5.
 
 What your submission should have: 
 
