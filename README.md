@@ -1,6 +1,8 @@
 # ETHBerlin Knowledge Base
 This is your one-stop source of information, if you're participating in ETHBerlin.
 
+# [Friday evening presentation (with all links)](https://docs.google.com/presentation/d/1Y6rlDigsMAYDhKTxhZNA9HkFp1mOekEaTllRSEw2pYI/edit?ts=5b92d16e#slide=id.g3ffdd87daa_0_0)
+
 ![ETHBerlin logo](https://github.com/ethberlin-hackathon/media-assets/raw/master/ETHBerlin%20logo%20-%20horizontal%20transparent%20-%20small.png)
 
 
