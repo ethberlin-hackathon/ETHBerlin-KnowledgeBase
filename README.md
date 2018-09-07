@@ -3,6 +3,8 @@ This is your one-stop source of information, if you're participating in ETHBerli
 
 ![ETHBerlin logo](https://github.com/ethberlin-hackathon/media-assets/raw/master/ETHBerlin%20logo%20-%20horizontal%20transparent%20-%20small.png)
 
+
+
 ## Table of Contents
 - [Usage](#usage)
 - [Overview](#overview)
@@ -21,6 +23,10 @@ This is your one-stop source of information, if you're participating in ETHBerli
   - [Sleeping Facilities](#sleeping-facilities)
   - [Bounties](#bounties)
 
+
+
+
+# OUTDATED BY NOW
 ## Usage
 We've tried to split the knowledge base into different parts, so that you may find
 information relevant to your role, and the stage of the event, easily. Please start
