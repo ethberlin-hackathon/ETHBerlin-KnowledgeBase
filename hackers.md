@@ -73,3 +73,5 @@ What your submission should have:
 - [Ready to use dApp template](https://gitlab.com/mikiquantum/simple-dapp-calculator) — a clone-and-start-hacking template of a dApp, with CI/CD battaries included. Built with Solidity and React, tested and migrated using Truffle. Brought to you by your [friendly EthBerlin devops mentors](https://gitlab.com/mikiquantum/simple-dapp-calculator/graphs/master)!
 
 - [Parity light.js](https://parity-js.github.io/light.js/getting-started/installation.html) - A high-level reactive JS library optimized for light clients.
+
+- [Superblocks Lab](https://lab.superblocks.com) - A DApp development IDE combining both smart contracts and web app coding. Metamask integration, built in Solidity compiler and EVM, live coding, transaction history, etc. Can export ready to go DApps.
