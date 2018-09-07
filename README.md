@@ -4,7 +4,7 @@ This is your one-stop source of information, if you're participating in ETHBerli
 ![ETHBerlin logo](https://github.com/ethberlin-hackathon/media-assets/raw/master/ETHBerlin%20logo%20-%20horizontal%20transparent%20-%20small.png)
 
 
-Team Formation
+# Team Formation #
 
 No need to register your team or idea upfront.
 Teams get registered when you submit to Devpost (on sunday, see below).
@@ -41,6 +41,13 @@ IMPORTANT: Note that you can submit your work to multiple prize awards, they are
   - [Food & Stuff](#food-and-stuff)
   - [Sleeping Facilities](#sleeping-facilities)
   - [Bounties](#bounties)
+
+
+
+
+
+
+
 
 
 
