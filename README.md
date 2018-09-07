@@ -25,6 +25,39 @@ Also, go to the hacker’s riot chat or the [Github repo (Team building)](https:
 
 **IMPORTANT:** Note that you can submit your work to multiple prize awards, they are not exclusive! So for example you can submit your work to the open track bounty and a sponsor specific prize, just make sure to submit it everywhere where you want to participate.
 
+## Submission Guidelines
+
+- Hacking starts during the event. Teams can form and ideas can evolve before the hackathon. However, the code base, hacks, and prototypes that you create for any apps competing for prizes or bounties need to evolve **only** during the hackathon. Apps, hacks, and projects that were built before the event do **not** qualify and will be excluded from judging and any prizes.
+- Teams should have a maximum of 5 team members.
+- The project should have an open source license and what has been produced during the hackathon should be publicly available and accessible by judges and everyone else.
+- A short **presentation** file must describe your project. It has to be accessible without special tools. Ideally a PDF, Google slides, or even a hosted recording if you like. The judges need to all be able to access those presentations.
+- You need to provide a link, which acts as an entry point to your project. Ideally, this link would be a public repository containing the code, team members, presentations and documentation on how one can use your code.
+- Smart contracts should be deployed to a testnet or the Ethereum mainnet.
+- Submission closes at 11:30 am on Sunday the 9. of September 2018.
+
+## Submission of sponsored prizes
+
+Each sponsored prize has a github issue in the [prizes repository]([https://github.com/ethberlin-hackathon/ETHBerlin-Bounties](https://github.com/ethberlin-hackathon/ETHBerlin-Bounties/settings/collaboration)). After you've decided which ones you want to apply for, you need to go to the Gitcoin bounty associated with that prize, and click on "Start Work". At the end, the sponsor would decide for a team, and pay out the bounty through Gitcoin.
+
+These prizes are different from the Open Track prize and People's choice award.
+
+## Judging
+
+- Submission closes at 11:30 am on Sunday the 9. of September 2018.
+- Judging for the Open Track Prize will happen based on whatever was provided in Devpost.
+- Sponsored prizes are judged by the respective sponsor, and would have different judging criteria.
+- Please remember that in the end, the whole process is there for you to get good feedback on your idea and project.
+- Each project will be judged by two different judging groups to reduce subjective opinion.
+
+
+
+
+
+
+
+
+# OUTDATED BY NOW
+
 ## Table of Contents
 - [Usage](#usage)
 - [Overview](#overview)
@@ -48,12 +81,6 @@ Also, go to the hacker’s riot chat or the [Github repo (Team building)](https:
 
 
 
-
-
-
-
-
-# OUTDATED BY NOW
 ## Usage
 We've tried to split the knowledge base into different parts, so that you may find
 information relevant to your role, and the stage of the event, easily. Please start
