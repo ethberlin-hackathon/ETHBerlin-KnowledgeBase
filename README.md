@@ -13,7 +13,7 @@ Teams get registered when you submit to Devpost (on sunday, see below).
 
 Hacker, looking for a team? Team, looking for an additional hacker?
 On Friday, 11.30pm find each other in Courtyard 1 (Food courtyard). Don’t be shy. The community is open and everyone here shares a passion for building open source technologies.
-Also, go to the hacker’s riot chat or the [Github repo (Team building)](https://github.com/ethberlin-hackathon/ETHBerlin-Teambuilding)
+Also, go to the [hacker’s riot chat](https://matrix.to/#/!WTJBLneNDtLzLNlkmU:matrix.org) (#ethberlinhackers:matrix.org) or the [Github repo (Team building)](https://github.com/ethberlin-hackathon/ETHBerlin-Teambuilding)
 
 
 # Prizes
