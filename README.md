@@ -21,7 +21,7 @@ Also, go to the hacker’s riot chat or the Github repo (Team building)
 
 ## Prizes on Github
 - Sponsor Prizes: Some of ETHBerlin’s sponsors have their own price awards. They can each pay out a maximum of 5000 €. These prizes will be funded and distributed via Gitcoin. Note that ETHBerlin has no influence on neither the challenge nor the judging, this is entirely up to the sponsors. You can find all the prize awards here.
-- Community Improvement Awards: These are small prizes endowed with 1000 € each by ETHBerlin. Check them out here.
+- Community Improvement Awards: These are small prizes endowed with 1000 € each by ETHBerlin. Check them out [here](https://github.com/ethberlin-hackathon/ETHBerlin-Bounties/issues).
 
 IMPORTANT: Note that you can submit your work to multiple prize awards, they are not exclusive! So for example you can submit your work to the open track bounty and a sponsor specific prize, just make sure to submit it everywhere where you want to participate.
 
