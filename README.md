@@ -19,6 +19,7 @@ This is your one-stop source of information, if you're participating in ETHBerli
   - [Schedule](#schedule)
   - [Food & Stuff](#food-and-stuff)
   - [Sleeping Facilities](#sleeping-facilities)
+  - [Bounties](#bounties)
 
 ## Usage
 We've tried to split the knowledge base into different parts, so that you may find
@@ -107,3 +108,6 @@ ETHBerlin will cover all meals & drinks for the entire Hackathon, and conference
 ### Sleeping Facilities
 Due to the regulations of the venue, unfortunately we cannot offer any sleeping facilities on-site, and
 sleeping bags are not allowed. Please make sure you take this into consideration when choosing an accomodation.
+
+### Bounties
+Throughout the event you can participate in a variety of bounties to win some BRLN coin! Browse the bounties [here](bounties.md)
