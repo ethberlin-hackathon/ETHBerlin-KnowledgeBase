@@ -51,8 +51,7 @@ These prizes are different from the Open Track prize and People's choice award.
 - Please remember that in the end, the whole process is there for you to get good feedback on your idea and project.
 - Each project will be judged by two different judging groups to reduce subjective opinion.
 
-
-
+To learn more details about the judging process, also read the post on [Medium](https://medium.com/ethberlin/open-sourcing-our-judging-process-75b77f6ba459)
 
 
 
