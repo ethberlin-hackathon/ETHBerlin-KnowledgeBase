@@ -30,11 +30,11 @@ Also, go to the [hacker’s riot chat](https://matrix.to/#/!WTJBLneNDtLzLNlkmU:m
 ## Submission Guidelines
 
 - Hacking starts during the event. Teams can form and ideas can evolve before the hackathon. However, the code base, hacks, and prototypes that you create for any apps competing for prizes or bounties need to evolve **only** during the hackathon. Apps, hacks, and projects that were built before the event do **not** qualify and will be excluded from judging and any prizes.
-- Teams should have a maximum of 5 team members.
+- Teams should have a **maximum of 5 team members** consisting of registered hackers only.
 - The project should have an open source license and what has been produced during the hackathon should be publicly available and accessible by judges and everyone else.
 - A short **presentation** file must describe your project. It has to be accessible without special tools. Ideally a PDF, Google slides, or even a hosted recording if you like. The judges need to all be able to access those presentations.
 - You need to provide a link, which acts as an entry point to your project. Ideally, this link would be a public repository containing the code, team members, presentations and documentation on how one can use your code.
-- Smart contracts should be deployed to a testnet or the Ethereum mainnet.
+- Smart contracts must be deployed to a public testnet or the Ethereum mainnet.
 - Submission closes at 11:30 am on Sunday the 9. of September 2018.
 
 ## Submission of sponsored prizes
@@ -45,11 +45,15 @@ These prizes are different from the Open Track prize and People's choice award.
 
 ## Judging
 
-- Submission closes at 11:30 am on Sunday the 9. of September 2018.
-- Judging for the Open Track Prize will happen based on whatever was provided in Devpost.
-- Sponsored prizes are judged by the respective sponsor, and would have different judging criteria.
-- Please remember that in the end, the whole process is there for you to get good feedback on your idea and project.
-- Each project will be judged by two different judging groups to reduce subjective opinion.
+- Submission closes at 11:30 am on Sunday the 9. of September 2018
+- Judging for the Open Track Prize will happen based on whatever was provided via Devpost
+- After your submission the judging team will check for the submission guidlines and will leave a comment on your github repository. **Watch for comments starting at around 12pm**
+- Judging will happen on the 3rd floor
+- Each project will be judged by two different judging groups to reduce subjective opinion
+- You will present your project to each judging group once. 5mins presentation/demo + 2 mins for Q&A/Feedback
+
+- Sponsored prizes are judged by the respective sponsor, and will have different judging criteria. 
+-- Again: The ETHBerlin Judging team does not judge on sponsor prizes!
 
 To learn more details about the judging process, also read the post on [Medium](https://medium.com/ethberlin/open-sourcing-our-judging-process-75b77f6ba459)
 
