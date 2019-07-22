@@ -9,8 +9,8 @@ Intro
 
 ## Prizes Offered
 
-1\.
-2\.
+1.
+2.
 
 ## Getting Started
 
